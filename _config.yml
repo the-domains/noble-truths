@@ -1,0 +1,28 @@
+name: Noble Truths
+favicon: null
+layout_spectrum: 0.0016986429691314697
+typography_spectrum: 0.5762802641838789
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.3051839922554791
+  lightness: 0.4778852164745331
+  saturation: 0.16580636543221772
+  rhythmicContrast: 0.5415683828759938
+purpose: []
